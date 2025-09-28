@@ -8,10 +8,6 @@
   "devDependencies": {
     "typescript": "catalog:"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.15.0",
   "dependencies": {
     "es-toolkit": "1.39.10"
   }
