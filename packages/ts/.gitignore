@@ -1,0 +1,4 @@
+# The `outDir` for declarations
+lib/
+# Build cache manifests
+*.tsbuildinfo
