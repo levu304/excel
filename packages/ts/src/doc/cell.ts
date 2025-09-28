@@ -1,3 +1,3 @@
-class Cell {
-    
-}
+import { Note } from "./note";
+
+export class Cell {}
