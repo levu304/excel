@@ -2,6 +2,7 @@
   "name": "@excel/ts",
   "version": "1.0.0",
   "description": "",
+  "types": "./dist/types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

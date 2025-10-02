@@ -4,6 +4,7 @@
     "outDir": "./lib",
     "rootDir": ".",
     "baseUrl": ".",
+    "lib": ["DOM", "ES2023"],
     "paths": {
       ":/*": ["./src/*"]
     }
